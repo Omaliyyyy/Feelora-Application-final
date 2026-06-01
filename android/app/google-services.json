@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073128860143",
+    "project_id": "feelora-app-c9736",
+    "storage_bucket": "feelora-app-c9736.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073128860143:android:7fae1d8b629d6e22acee1a",
+        "android_client_info": {
+          "package_name": "com.example.feelora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4hAYZ-uCdz6C6fz1qFh8Zmang--wKkuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
